@@ -1,6 +1,6 @@
 # Stakeholder Memo
 
-**Project Title:** Revenue at Risk: How External Factors Influence Patagonia’s Performance
+**Project Title:** Revenue at Risk: How External Factors Influence Patagonia’s Performance\
 **Research Question:** To what extent do external risk factors (climate change, raw material costs, consumer demand shifts) affect Patagonia’s revenue?
 
 ## Context

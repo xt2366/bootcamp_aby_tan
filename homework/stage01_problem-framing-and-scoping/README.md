@@ -34,48 +34,48 @@
 
 ## Lifecycle Mapping
 Goal → Stage → Deliverable
-1. Define the research problem: To what extent do external risk factors (climate change, raw material costs, consumer demand shifts) affect Patagonia’s revenue?
-→ stage01_problem-framing-and-scoping/
+1. Define the research problem: To what extent do external risk factors (climate change, raw material costs, consumer demand shifts) affect Patagonia’s revenue?\
+→ stage01_problem-framing-and-scoping/\
 → Problem statement markdown + repo plan
 
-2. Set up tools and workflow
-→ stage02_tooling-setup_slides-outline/
+2. Set up tools and workflow\
+→ stage02_tooling-setup_slides-outline/\
 → GitHub repo, folder tree, README, slides outline
 
-3. Strengthen Python fundamentals for analysis
-→ stage03_python-fundamentals/
+3. Strengthen Python fundamentals for analysis\
+→ stage03_python-fundamentals/\
 → Practice notebooks on data manipulation & visualization
 
-4. Acquire relevant datasets (Patagonia revenue proxies, raw material prices, climate/weather data, consumer demand indices)
-→ stage04_data-acquisition-and-ingestion/
+4. Acquire relevant datasets (Patagonia revenue proxies, raw material prices, climate/weather data, consumer demand indices)\
+→ stage04_data-acquisition-and-ingestion/\
 → Data ingestion scripts + raw datasets in /data/
 
-5. Store and organize datasets
-→ stage05_data-storage/
+5. Store and organize datasets\
+→ stage05_data-storage/\
 → Structured data files (CSV/Parquet) + schema documentation
 
-6. Preprocess data (cleaning, missing values, aligning different data sources)
-→ stage06_data-preprocessing/
+6. Preprocess data (cleaning, missing values, aligning different data sources)\
+→ stage06_data-preprocessing/\
 → Preprocessed datasets + preprocessing scripts
 
-7. Check outliers and document risk assumptions (e.g., abnormal spikes in cotton prices, demand shocks)
-→ stage07_outliers-risk-assumptions/
+7. Check outliers and document risk assumptions (e.g., abnormal spikes in cotton prices, demand shocks)\
+→ stage07_outliers-risk-assumptions/\
 → Outlier analysis notebook + markdown of assumptions
 
-8. Explore the data (correlations between external factors and revenue, initial visualizations)
-→ stage08_exploratory-data-analysis/
+8. Explore the data (correlations between external factors and revenue, initial visualizations)\
+→ stage08_exploratory-data-analysis/\
 → EDA notebook with summary stats, time-series plots
 
-9. Engineer features (lagged raw material costs, seasonal demand indices, climate anomalies)
-→ stage09_feature-engineering/
+9. Engineer features (lagged raw material costs, seasonal demand indices, climate anomalies)\
+→ stage09_feature-engineering/\
 → Feature dataset + feature engineering notebook
 
-10. a Model factor impacts using regression (e.g., OLS to estimate effect of external risks on revenue)
-→ stage10a_modeling-linear-regression/
-→ Regression results, coefficients, and performance metrics
+10. a. Model factor impacts using regression (e.g., OLS to estimate effect of external risks on revenue)\
+→ stage10a_modeling-linear-regression/\
+→ Regression results, coefficients, and performance metrics\
 
-10. b Build forecasting/time-series models (e.g., ARIMA for revenue, classification for “high vs low growth” periods)
-→ stage10b_modeling-time-series-and-classification/
+b. Build forecasting/time-series models (e.g., ARIMA for revenue, classification for “high vs low growth” periods)\
+→stage10b_modeling-time-series-and-classification/\
 → Forecasting notebook + model evaluation metrics
 
 

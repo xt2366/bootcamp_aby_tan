@@ -1,0 +1,1 @@
+Stage 2 sets up a reproducible Python scaffold with environment, secrets, config helper, and Jupyter check.

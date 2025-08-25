@@ -3,7 +3,7 @@
 **Stage:** Problem Framing & Scoping (Stage 01)
 
 ## Problem Statement
-* To what extent do external risk factors (climate change, raw material costs, consumer demand shifts) affect Patagonia’s revenue?
+* **To what extent do external risk factors (climate change, raw material costs, consumer demand shifts) affect Patagonia’s revenue?**
 * Patagonia is an American outdoor clothing and gear brand founded in 1973 by Yvon Chouinard, known for its commitment to high-quality, durable products and significant environmental activism. The company donates 1% of its sales to environmental nonprofits through its "1% for the Planet" initiative, runs a program to repair and resell its own clothing through its Worn Wear program, and has a mission to "save our home planet".
 * Patagonia’s revenue depends on a mix of internal performance and external risks that are difficult to control. Rising raw material costs (e.g., cotton, wool), shifts in consumer demand toward sustainable products, and climate change–related disruptions in supply chains or seasonal demand may significantly impact sales. Identifying which factors matter most provides critical insight for forecasting financial performance and assessing long-term risks.
 * Revenue forecasting under uncertainty helps Patagonia plan production, manage supply chain exposure, and guide investment in sustainability initiatives. For broader stakeholders such as investors, policymakers, and ESG analysts, quantifying the link between external risks and financial performance can support better decision-making around corporate resilience.
@@ -84,4 +84,5 @@ b. Build forecasting/time-series models (e.g., ARIMA for revenue, classification
 /src/ — processing and modeling scripts\
 /notebooks/ — EDA, prototyping, and reports\
 /docs/ — stakeholder memos, slides\
-README will be updated as the project advances.\ Repo link and updates shared with collaborators and instructors.
+README will be updated as the project advances.<br />
+Repo link and updates shared with collaborators and instructors.
